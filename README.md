@@ -1,9 +1,9 @@
 #  Thalia Ferreira
 
-Sou estudante de Sistemas de Informação.
- Minhas habilidades atuais  são resultados de minha paixão por tecnologia e pelo aprendizado contínuo, além da constante dedicação. Ao longo do curso técnico em informática no SENAC, da graduação na faculdade e dos cursos que realizei, pude aprimorar meu conhecimento nessas áreas.
 
- Um dos desafios que mais gostei até agora em minha trajetória foi a construção de um site funcional para o Colégio Estadual Barbosa, em Gravataí, durante o projeto integrador no SENAC. Trabalhando em equipe, supervisionados pelos professores, pude perceber não só meu potencial, mas também o poder de união e colaboração de um grupo em busca de um objetivo maior.
+ Desde cedo, a tecnologia tem sido uma paixão constante na minha vida, sempre despertando em mim uma imensa curiosidade. Quando ganhei meu primeiro computador ainda criança, fiquei fascinada com a máquina que parecia operar como mágica. Essa curiosidade me levou a explorar mais, e me recordo de, na época dos blogs, pesquisar sobre HTML apenas para personalizar minhas postagens e torná-las únicas. Minhas atuais habilidades são resultados dessa paixão por tecnologia e pelo aprendizado contínuo, além da constante dedicação.
+
+ Atualmente, sou estudante de Sistemas de Informação com previsão de formatura para o primeiro semestre de 2026. Estagiei como suporte técnico (infra e redes) por quase três anos e minha maior ambição é encontrar uma oportunidade profissional que me permita integrar meus estudos com o desenvolvimento profissional.
 
  Conheça mais sobre mim: 
 
